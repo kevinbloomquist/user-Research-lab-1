@@ -1,0 +1,54 @@
+General interview format:
+
+Hello!
+Thank you for taking the time to participating in this survey...
+(small talk)
+
+1) Do you use any digital media services? If so which ones?
+2) What do you like most about these sites?
+3) Would you consider yourself an avid follower of internet trends?
+4) How often do you browse for internet memes/articles?
+
+For the next section please visit reddit.com
+5) What is your first thought upon landing on the page?
+6) Upon landing at the link above, what do you think this page is for? What do you notice first?
+7) What do you want to do?
+8) (If the above is an option) How might you go about doing that? Do you immediately/ intuitively know how to do what you want?
+	(if it is not an option) What makes you want to do that?
+9) What do you like about the page?
+10) What do you dislike?
+
+Participant 1 (65, mother of 2, MD Dept of Energy) response:
+1) Face Book, instagram, Pandora
+2) posted comments, pictures, music options
+3) Not avid follower
+4) Browse 2-3 times week
+
+5) Not that appealing
+6) Notice Icon first
+7) want more info about the site, is it free
+8) Have to search page to find links to more information. 
+Pretty much know what to do
+9) Like that search items were easily identified 
+10) initial page is bland. Not sure if it was an app I would be interested in
+
+Participant 2 (38, Architect, Philadelphia PA)
+
+1) Do you use any digital media services? If so which ones? Yes- Instagram, I have a facebook account but very rarely look at it.  I also read the news/gossip site Jezebel pretty regularly and will look at the New York Times online.  I also read Slate pretty regularly.  I listen to about half a dozen podcasts regularly and will listen to audible. Also, obviously I use email and will use ebay and amazon for shopping.  I recently started using google photos to try and get my photo library more organized.  Oh- and I use Netflix, Hulu and Apple services for watching TV and movies.
+2) What do you like most about these sites?  I like looking at fun pictures on instagram- getting creative inspiration and keeping up with what my friends are up to.  Jezebel is a nice mix of news delivered in a casual manner.  Slate is similar but a bit more in depth.   Podcasts are fun because my work can be a bit monotonous and they keep me entertained- same with audible.  They're all very accesssible and to a certain extent simplify and enrich my life.
+3) Would you consider yourself an avid follower of internet trends? No, not really.  When there is a buzz around certain articles, podcasts or tv shows, I'll dig a bit deeper.
+4) How often do you browse for internet memes/articles?  Rarely- I'd say once every couple weeks if someone tips me off to an item that seems interesting.
+
+For the next section please visit reddit.com
+5) What is your first thought upon landing on the page?  Ugly! I've heard so much about reddit and have never visited the site.  Is this really what it looks like?  Looks like AOL circa 1995.  
+6) Upon landing at the link above, what do you think this page is for? Looks like a chat board for people with too much time on their hands. What do you notice first? (see above)  It also seems like there is no hierarchy for the content.  
+7) What do you want to do? Click items that seem interesting.  I saw a link about Bill Nye which seemed interesting.  When i tried to search for threads on a topic (ecology) the search was pretty straightforward but the info I got back was a bit random. 
+8) (If the above is an option) How might you go about doing that? Do you immediately/ intuitively know how to do what you want? Yes.  Although, it seems like the whole site is a bit about following a stream of consciousness and not about finding something super specific. 
+        (if it is not an option) What makes you want to do that?
+9) What do you like about the page?  In a way, it's refreshingly undesigned which is rare these days.  
+10) What do you dislike?  No hierarchy or graphics to help you navigate the site.   To a non-user it seems intensely random, which maybe is supposed to be part of the appeal.
+
+
+Summary/ Response analysis:
+
+For the most part the responses reflect my initial hypothesis that the Reddit User experience is not commensurate with the site's functionality. As an exercise I might start there. I would take some time to better understand the organizational relationship of Reddit's data then design (not over design) a better experience through a simpler more efficient interface that is less cluttered and more visually appealing. 
